@@ -1,0 +1,14 @@
+h1{
+    color :rgb(7, 30, 205);
+    background-color: red;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: pink;
+}
+
+button{
+    background-color: black;
+    color: white;
+}
