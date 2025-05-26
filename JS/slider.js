@@ -7,7 +7,7 @@ function showSlide(i) {
   slides.forEach((slide, idx) => {
     slide.classList.remove('active');
     if (idx === i) {
-      slide.classList.add('active');
+      slide.classList.add('active'); 4
     }
   });
 }
